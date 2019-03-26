@@ -6,3 +6,13 @@ export const LOGIN_DISABLE_LOADER = 'LOGIN_DISABLE_LOADER';
 export const LOGIN_REQUEST = 'LOGIN_REQUEST';
 export const LOGIN_RESPONSE = 'LOGIN_RESPONSE';
 export const LOGIN_FAILED = 'LOGIN_FAILED';
+
+// prayer
+export const SET_PRAYER_TIME = 'SET_PRAYER_TIME';
+export const PRAYER_TIMES_REQUESTED = 'PRAYER_TIMES_REQUESTED';
+
+//calendar
+export const SET_SELECTED_DATE = 'SET_SELECTED_DATE';
+
+//application
+export const SET_APP_COORDINATES = 'SET_APP_COORDINATES';
